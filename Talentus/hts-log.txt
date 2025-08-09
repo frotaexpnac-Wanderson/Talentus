@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 Aug 2025 18:05:00 at https://studio.firebase.google.com/studio-8984380873 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://studio.firebase.google.com/studio-8984380873 -O1 "C:\Users\Administrator\Documents\My Games\Talentus" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:05:05	Error: 	"Not Found" (404) at link https://accounts.google.com/v3/signin/ (from https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fstudio.firebase.google.com%2Fstudio-8984380873&followup=https%3A%2F%2Fstudio.firebase.google.com%2Fstudio-8984380873&ifkv=AdBytiOwVLXSNL687D7ECwaUwtA7cJBKAvKSqXaVjydscPAmi7MtUL6wl-x4zY7ppYz2LQ0NC2WkaA&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-953882882%3A1754773501864246)
+18:05:05	Error: 	"Not Found" (404) at link https://accounts.google.com/v3/signin/document.location.toString( (from https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fstudio.firebase.google.com%2Fstudio-8984380873&followup=https%3A%2F%2Fstudio.firebase.google.com%2Fstudio-8984380873&ifkv=AdBytiOwVLXSNL687D7ECwaUwtA7cJBKAvKSqXaVjydscPAmi7MtUL6wl-x4zY7ppYz2LQ0NC2WkaA&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-953882882%3A1754773501864246)
+18:05:05	Error: 	"Bad Request" (400) at link https://accounts.google.com/v3/signin/rejected (from https://accounts.google.com/v3/signin/rejected?continue=https://studio.firebase.google.com/studio-8984380873&dsh=S-953882882:1754773501864246&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://studio.firebase.google.com/studio-8984380873&ifkv=AdBytiOwVLXSNL687D7ECwaUwtA7cJBKAvKSqXaVjydscPAmi7MtUL6wl-x4zY7ppYz2LQ0NC2WkaA&rhlk=js&rrk=47)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 7 links scanned, 3 files written (1093017 bytes overall) [214464 bytes received at 42892 bytes/sec], 1095542 bytes transferred using HTTP compression in 7 files, ratio 17%
+(3 errors, 0 warnings, 0 messages)
